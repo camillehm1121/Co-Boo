@@ -1,0 +1,42 @@
+.scroll-group-3::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.scroll-group-3 {
+  align-items: center;
+  display: flex;
+  height: 196px;
+  min-width: 393px;
+  overflow-x: scroll;
+  position: relative;
+}
+
+.overlap-group3-8 {
+  height: 193px;
+  margin-left: 58px;
+  margin-top: 1.0px;
+  position: relative;
+  width: 198px;
+}
+
+.group-3408 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/611fdac8a506a1017c382f98/releases/611fdd1afc0af3fcbb2108e6/img/rectangle-2308-3@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 193px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 196px;
+}
+
+.processed-vegetable {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+

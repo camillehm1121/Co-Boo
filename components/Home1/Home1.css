@@ -1,0 +1,395 @@
+.home-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  height: 1599px;
+  overflow: hidden;
+  position: relative;
+  width: 414px;
+}
+
+.overlap-group2 {
+  height: 72px;
+  position: relative;
+  width: 414px;
+}
+
+.font-awsome-bars {
+  height: 24px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 36px;
+  width: 27px;
+}
+
+.overlap-group1 {
+  align-self: center;
+  border-radius: 30px;
+  height: 545px;
+  margin-left: 1.0px;
+  margin-top: 42px;
+  position: relative;
+  width: 381px;
+}
+
+.card-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 30px;
+  box-shadow: 0px 15px 30px #00000029;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 545px;
+  padding: 9.0px 8px;
+  position: absolute;
+  top: 0;
+  width: 381px;
+}
+
+.group-3414 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  min-width: 231px;
+}
+
+.ellipse-2 {
+  border-radius: 24px;
+  height: 72px;
+  margin-left: -12px;
+  margin-top: -9px;
+  object-fit: cover;
+  width: 72px;
+}
+
+.overlap-group3 {
+  height: 42px;
+  margin-left: 8px;
+  margin-top: 1.5px;
+  position: relative;
+  width: 165px;
+}
+
+.project-simulator {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.text-2 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 16px;
+  width: 165px;
+}
+
+.group-3417 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 1.0px;
+  margin-top: 25px;
+  min-width: 200px;
+}
+
+.overlap-group {
+  height: 200px;
+  position: relative;
+  width: 200px;
+}
+
+.group-3416 {
+  align-items: center;
+  display: flex;
+  height: 200px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.group-2984 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 170px;
+  justify-content: flex-end;
+  left: 15px;
+  min-width: 170px;
+  padding: 0 59.0px;
+  position: absolute;
+  top: 15px;
+}
+
+.union-13 {
+  height: 11px;
+  margin-top: 0;
+  object-fit: cover;
+  width: 30px;
+}
+
+.subtraction-49 {
+  height: 200px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 200px;
+}
+
+.union-11 {
+  height: 128px;
+  left: 96px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 104px;
+}
+
+.group-3415 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  left: 40px;
+  position: absolute;
+  top: 85px;
+}
+
+.overlap-group4 {
+  height: 28px;
+  position: relative;
+  width: 120px;
+}
+
+.mask-group-10 {
+  align-items: flex-start;
+  display: flex;
+  height: 14px;
+  left: 31px;
+  overflow: hidden;
+  padding: 0 1px;
+  position: absolute;
+  top: 1px;
+  width: 29px;
+}
+
+.overlap-group6 {
+  height: 329px;
+  margin-left: 1px;
+  margin-top: -105px;
+  position: relative;
+  width: 26px;
+}
+
+.flex-row {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 206px;
+  margin-top: 28px;
+  min-width: 353px;
+}
+
+.flex-col {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 206px;
+  width: 153px;
+}
+
+.amount {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 20px;
+  opacity: 0.34;
+  width: 153px;
+}
+
+.beef {
+  color: var(--pink-flare);
+  font-family: var(--font-family-open_sans);
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-top: 46px;
+  min-height: 22px;
+  min-width: 34px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.color {
+  color: var(--sunglow);
+  font-family: var(--font-family-open_sans);
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-top: 37px;
+  min-height: 22px;
+  min-width: 54px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.apple {
+  color: var(--viking);
+  font-family: var(--font-family-open_sans);
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-top: 36px;
+  min-height: 22px;
+  min-width: 42px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 116px;
+  min-height: 202px;
+  position: relative;
+  width: 84px;
+}
+
+.serving {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 20px;
+  text-align: center;
+  width: 71px;
+}
+
+.x1-serving-3-oz {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 10px;
+  margin-right: 5.0px;
+  margin-top: 4px;
+  opacity: 0.3;
+  width: 79px;
+}
+
+.group-40 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  left: 20px;
+  position: absolute;
+  top: 347px;
+}
+
+.overlap-group12 {
+  height: 28px;
+  position: relative;
+  width: 341px;
+}
+
+.path-11680 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 341px;
+}
+
+.path-11553 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 54px;
+}
+
+.ellipse-12 {
+  background: linear-gradient(180deg, #fd8db5 0%, #ded0d5 100%);
+  border-radius: 14px;
+  box-shadow: 0px 1px 6px #8e99a833;
+  height: 28px;
+  left: 29px;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.mask-group-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  left: 273px;
+  overflow: hidden;
+  padding: 0 11px;
+  position: absolute;
+  top: 305px;
+  width: 43px;
+}
+
+.overlap-group15 {
+  height: 546px;
+  margin-left: 3px;
+  margin-top: -247px;
+  position: relative;
+  width: 18px;
+}
+
+.overlap-group17 {
+  height: 677px;
+  margin-right: -1603px;
+  margin-top: 43px;
+  position: relative;
+  width: 2284px;
+}
+
+.overlap-group-1 {
+  height: 677px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2284px;
+}
+
+.group-2761 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  left: 267px;
+  position: absolute;
+  top: 383px;
+  width: 415px;
+}
+
+.overlap-group8 {
+  align-items: flex-end;
+  background-color: var(--caribbean-green-pearl);
+  border-radius: 30px;
+  box-shadow: 0px 15px 30px #00000029;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 415px;
+  padding: 9.0px 68px;
+}
+
+.text-3 {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: 20px;
+  width: 277px;
+}
+

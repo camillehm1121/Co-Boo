@@ -1,0 +1,16 @@
+.scroll-group-2::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.scroll-group-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 196px;
+  justify-content: flex-end;
+  margin-top: 48px;
+  min-width: 414px;
+  overflow-x: scroll;
+  position: relative;
+}
+

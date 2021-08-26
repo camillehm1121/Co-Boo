@@ -1,0 +1,80 @@
+.component-106-27 {
+  height: 70px;
+  left: 267px;
+  position: absolute;
+  top: 37px;
+  width: 414px;
+  opacity: 0;
+transform: translate(-25px, 0);
+}
+
+.component-106-27.animate-enter {
+  animation: animate-enter-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+transform: translate(-25px, 0);
+}
+
+.overlap-group16 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 367px;
+  left: -148px;
+  min-width: 711px;
+  padding: 155.5px 187.5px;
+  position: relative;
+  top: -134px;
+}
+
+.overlap-group3-9 {
+  align-items: flex-start;
+  background-color: var(--caribbean-green-pearl);
+  border-radius: 15px;
+  display: flex;
+  margin-top: 0;
+  min-width: 70px;
+  padding: 0 21.0px;
+}
+
+.group-2756 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 27px;
+  width: 27px;
+}
+
+.ico {
+  height: 27px;
+  margin-left: 40px;
+  margin-top: 0;
+  object-fit: cover;
+  width: 27px;
+}
+
+.setting {
+  height: 27px;
+  margin-left: 62px;
+  object-fit: cover;
+  width: 27px;
+}
+
+.profile {
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 27px;
+  margin-left: 62px;
+  margin-top: 0;
+  width: 27px;
+}
+
+@keyframes animate-enter-frames {
+  from{opacity: 0;
+transform: translate(-25px, 0);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+

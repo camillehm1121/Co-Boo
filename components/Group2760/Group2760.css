@@ -1,0 +1,23 @@
+.group-2760 {
+  align-items: flex-end;
+  background-color: var(--caribbean-green-pearl);
+  border-radius: 30px;
+  box-shadow: 0px 15px 30px #00000029;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  margin-right: -1px;
+  margin-top: 45px;
+  min-width: 415px;
+  padding: 7.5px 123px;
+}
+
+.discover-by-meal {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 27px;
+  min-width: 166px;
+  text-align: center;
+  white-space: nowrap;
+}
+

@@ -1,0 +1,20 @@
+.iconadd {
+  align-items: flex-end;
+  display: flex;
+  height: 24px;
+  margin-left: 178px;
+  min-width: 24px;
+  padding: 4.0px 4.0px;
+}
+
+.union {
+  height: 16px;
+  object-fit: cover;
+  width: 16px;
+}
+
+.iconadd.iconadd-1 {
+  margin-bottom: 4.0px;
+  margin-left: 201px;
+}
+

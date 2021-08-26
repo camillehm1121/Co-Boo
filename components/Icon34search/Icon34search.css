@@ -1,0 +1,16 @@
+.icon34search {
+  align-items: flex-end;
+  display: flex;
+  height: 34px;
+  left: 346px;
+  padding: 8.0px 9.0px;
+  position: absolute;
+  top: 152px;
+}
+
+.search {
+  height: 17px;
+  object-fit: cover;
+  width: 16px;
+}
+

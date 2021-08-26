@@ -1,0 +1,44 @@
+.group-2971-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  left: 20px;
+  position: absolute;
+  top: 464px;
+}
+
+.overlap-group14 {
+  height: 46px;
+  margin-top: -8px;
+  position: relative;
+  width: 341px;
+}
+
+.rectangle-266-1 {
+  background-color: var(--catskill-white);
+  border-radius: 1000px;
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 19px;
+  width: 341px;
+}
+
+.path-11553-2 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 54px;
+}
+
+.slider {
+  height: 46px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}
+
